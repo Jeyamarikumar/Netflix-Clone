@@ -1,0 +1,5 @@
+The Netflix Clone Project is a full-stack web application built using React.js (frontend), Spring Boot (backend), and MySQL (database).
+The application replicates core Netflix features, including user authentication, profile management, movie/series browsing, and streaming trailers.
+React.js ensures a responsive, Netflix-like UI, while Spring Boot provides REST APIs for handling business logic and user requests.
+MySQL stores essential data such as user accounts, movies/series metadata, and watch history, ensuring efficient data management.
+This project demonstrates the integration of modern web technologies to deliver a seamless streaming experience.
